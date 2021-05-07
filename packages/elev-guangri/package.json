@@ -1,5 +1,5 @@
 {
-  "name": "elev-guangri",
+  "name": "@elev/guangri",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
